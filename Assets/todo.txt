@@ -1,0 +1,7 @@
+TODO
+
+1. Allow highlighting with vertex colors?
+    - Possible do very large AxAxA array?
+2. Puzzle creator
+3. Level select/main menu UI
+4. Pan/select mode icon
