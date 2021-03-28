@@ -6,6 +6,8 @@ This is a Picross 3D clone made in Unity3D for Android. It contains a level edit
 
 The main issue is the puzzle generation (hint removal) algorithm, which fails to generate interesting puzzles. If you have any information on how to generate good 3d nonogram puzzles, please contact me.
 
+Also on [itch.io](https://tesseractcat.itch.io/nono-3d).
+
 ## Credits
 
 TODO
