@@ -8,6 +8,16 @@ The main issue is the puzzle generation (hint removal) algorithm, which fails to
 
 Also on [itch.io](https://tesseractcat.itch.io/nono-3d).
 
+## Future Steps
+
+- Clean up codebase
+- Use a SAT solver to solve puzzles
+- Explore different puzzle generation methods
+- Themed puzzle packs
+- Fix slow list population
+- Fix camera panning/rotation velocity
+- Add community puzzle sharing
+
 ## Credits
 
 TODO
